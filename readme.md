@@ -483,12 +483,13 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Omnizart] - Transcribe vocals, drums, chords, beats, and more.
 - [Splash] - AI-powered music creation platform.
 - [Suno AI] - AI-powered music composition and production platform.
+- [OBSIDIAN Neural] - Real-time AI loop generation VST3 plugin for live performance with MIDI triggering.
 
 [LAIVE]: https://www.laive.io
 [Omnizart]: https://github.com/Music-and-Culture-Technology-Lab/omnizart
 [Splash]: https://www.splashmusic.com
 [Suno AI]: https://suno.com/
-
+[OBSIDIAN Neural]: https://obsidian-neural.com
 
 ### Music Distribution
 
