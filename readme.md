@@ -485,7 +485,6 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Splash] - AI-powered music creation platform.
 - [Suno AI] - AI-powered music composition and production platform.
 
-
 [LAIVE]: https://www.laive.io
 [OBSIDIAN Neural]: https://obsidian-neural.com
 [Omnizart]: https://github.com/Music-and-Culture-Technology-Lab/omnizart
